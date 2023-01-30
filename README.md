@@ -2,5 +2,5 @@
 
 Coisas que ando fazendo:
 
-- 🎓Cursando Engenharia de Computação na UFPA (5º período)
-- 📚 Estudando HTML, CSS e JavaScript
+- 🎓Cursando Engenharia de Computação na UFPA (6º período)
+- 📚 Estudando HTML, CSS, JavaScript e SQL
