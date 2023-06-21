@@ -1,11 +1,12 @@
 <h1>I'm Aridan! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 <h3>Desenvolvedor Front-end</h3>
 
+- 🎓 Cursando Engenharia de Computação e Técnico em Redes de Computadores.</p>
+- 📚 Estudando React, Next e Tailwind.</p>
+
+<br>
+
 <p>  
-    <i>
-        Cursando Engenharia de Computação e Técnico em Redes de Computadores.<br>
-        Além disso, estou estudando React, Next e Tailwind.<br>
-    </i><br>
     <a href="https://www.linkedin.com/in/aridan-pantoja">
         <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -40,8 +41,9 @@
 <h3>Stats</h3>
 
 <div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridanpantoja&layout=compact&theme=midnight-purple" alt="Linguagens"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aridanpantoja&show_icons=true&theme=midnight-purple&hide_rank=true&hide=stars,issues" alt="Estatísticas"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=aridanpantoja&show_icons=true&theme=midnight-purple&hide_rank=true" height="200" alt="Estatísticas"/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridanpantoja&layout=compact&theme=midnight-purple" height="200" alt="Linguagens"/>
 </div>
 
 
