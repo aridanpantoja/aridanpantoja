@@ -1,7 +1,7 @@
 <h1>I'm Aridan! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 <h3>Desenvolvedor Front-end</h3>
 
-- 🎓 Cursando Engenharia de Computação e Técnico em Redes de Computadores.</p>
+- 🎓 Cursando Engenharia de Computação (6º semestre) e Técnico em Redes de Computadores (1º semestre).</p>
 - 📚 Estudando React, Next e Tailwind.</p>
 - 💼 Atualmente estou em busca da primeira experiência na área
 
