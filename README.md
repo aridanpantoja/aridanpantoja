@@ -1,13 +1,50 @@
-<h1 align="center">Olá 👋! Eu sou o Aridan</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
-<div style="display: inline_block" align="center">
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+<h1>I'm Aridan! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h3>Desenvolvedor Front-end</h3>
+
+<p>  
+    <i>
+        Cursando Engenharia de Computação e Técnico em Redes de Computadores.<br>
+        Além disso, estou estudando React, Next e Tailwind.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/aridan-pantoja">
+        <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:aridanpantoja@gmail.com">
+        <img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+    <a href="https://www.instagram.com/aridannnn">
+        <img src="https://img.shields.io/badge/Instagram-3C096C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+</p>
+
+<h3>Stack</h3>
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/react-3C096C?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next-3C096C?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-3C096C?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-3C096C?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-3C096C?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-3C096C?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3C096C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-3C096C?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-Coisas que ando fazendo:
-- 🎓Cursando Engenharia de Computação na UFPA (6º período)
-- 🎓Cursando Redes de Computadores - Técnico Subsequente no IFPA (1º período)
-- 📚 Estudando React, Next e Tailwind
+<h3>OS</h3>
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Windows-3C096C?style=for-the-badge&logo=Windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-3C096C?style=for-the-badge&logo=Linux&logoColor=white"/>
+</div>
+
+<h3>Stats</h3>
+
+<div style="display: inline_block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridanpantoja&layout=compact&theme=midnight-purple" alt="Linguagens"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aridanpantoja&show_icons=true&theme=midnight-purple&hide_rank=true&hide=stars,issues" alt="Estatísticas"/> 
+</div>
+
+
+
+
+
