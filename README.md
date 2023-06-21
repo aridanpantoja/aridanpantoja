@@ -3,6 +3,7 @@
 
 - 🎓 Cursando Engenharia de Computação e Técnico em Redes de Computadores.</p>
 - 📚 Estudando React, Next e Tailwind.</p>
+- 💼 Atualmente estou em busca da primeira experiência na área
 
 <br>
 
