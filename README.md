@@ -37,16 +37,3 @@
   <img src="https://img.shields.io/badge/Windows-3C096C?style=for-the-badge&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-3C096C?style=for-the-badge&logo=Linux&logoColor=white"/>
 </div>
-
-<h3>Stats</h3>
-
-<div style="display: inline_block">
-    <img src="https://github-readme-stats.vercel.app/api?username=aridanpantoja&show_icons=true&theme=midnight-purple&hide_rank=true" height="200" alt="Estatísticas"/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridanpantoja&layout=compact&theme=midnight-purple" height="200" alt="Linguagens"/>
-</div>
-
-
-
-
-
