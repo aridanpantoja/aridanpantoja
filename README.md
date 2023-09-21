@@ -1,8 +1,8 @@
-<h1>I'm Aridan! Front-end Dev <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1>I'm Aridan! Front-end Dev 👋</h1>
 
-- 🎓 Cursando Engenharia de Computação (6º semestre) e Técnico em Redes de Computadores (1º semestre).</p>
-- 📚 Estudando React, Next e Tailwind.</p>
-- 💼 Atualmente estou em busca da primeira experiência na área
+- 🎓 Cursando Engenharia de Computação (7º semestre) e Técnico em Redes de Computadores (2º semestre).</p>
+- 📚 Estudando React, Next, Tailwind e TypeScript.</p>
+- 🖥️ Meu portfolio: [aridan.dev](https://aridan.dev)
 
 <br>
 
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/react-3C096C?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/next-3C096C?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-3C096C?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-3C096C?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-3C096C?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-3C096C?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-3C096C?style=for-the-badge&logo=css3&logoColor=white"/>
