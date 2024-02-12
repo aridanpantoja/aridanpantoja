@@ -1,7 +1,7 @@
 <h1>I'm Aridan! Front-end Dev 👋</h1>
 
-- 🎓 Cursando Engenharia de Computação (7º semestre) e Técnico em Redes de Computadores (2º semestre).</p>
-- 📚 Estudando React, Next, Tailwind e TypeScript.</p>
+- 🎓 Cursando Engenharia de Computação (8º semestre) e Técnico em Redes de Computadores (3º semestre).</p>
+- 📚 Estudando React, Next.js, Tailwind e TypeScript.</p>
 - 🖥️ Meu portfolio: [aridan.dev](https://aridan.dev)
 
 <br>
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/html5-3C096C?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-3C096C?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3C096C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql-3C096C?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <h3>OS</h3>
