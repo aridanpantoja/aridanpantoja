@@ -8,32 +8,31 @@
 
 <p>  
     <a href="https://www.linkedin.com/in/aridan-pantoja">
-        <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:aridanpantoja@gmail.com">
-        <img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+        <img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
     </a>
     <a href="https://www.instagram.com/aridannnn">
-        <img src="https://img.shields.io/badge/Instagram-3C096C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-6d28d9?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
 
 <h3>Stack</h3>
 
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/react-3C096C?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/next-3C096C?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-3C096C?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-3C096C?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-3C096C?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-3C096C?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-3C096C?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3C096C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-6d28d9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next-6d28d9?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-6d28d9?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-6d28d9?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-6d28d9?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-6d28d9?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-6d28d9?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 <h3>OS</h3>
 
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Windows-3C096C?style=for-the-badge&logo=Windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-3C096C?style=for-the-badge&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-6d28d9?style=for-the-badge&logo=Windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-6d28d9?style=for-the-badge&logo=Linux&logoColor=white"/>
 </div>
