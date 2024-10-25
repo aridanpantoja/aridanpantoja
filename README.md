@@ -20,14 +20,14 @@
 
 ## My Work Experience 💼
 
-[<img align="left" height="104px" width="104px" alt="LinkJr" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=1738195200&v=beta&t=bjY1eMBzRQCjDysvIVEtTg5SRnY0VcY7j-vGF453MWU"/>](https://www.spacex.com/)
+[<img align="left" height="92px" width="92px" alt="LinkJr" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=1738195200&v=beta&t=bjY1eMBzRQCjDysvIVEtTg5SRnY0VcY7j-vGF453MWU"/>](https://www.spacex.com/)
 
 *Project Director* \
 [*LinkJr*](https://linkjr.com.br/) • Junior Enterprise \
 Languages & Technologies: `React`, `Next.js`, `Typescript`\
-Aug 2024 - Present\
+Aug 2024 - Present
 
-[<img align="left" height="104px" width="104px" alt="UFPA" src="https://media.licdn.com/dms/image/v2/C4D0BAQF5pgxwqpTcfw/company-logo_200_200/company-logo_200_200/0/1631330531313?e=1738195200&v=beta&t=2e-_RYgcfhVkRLArq1A5H4tP_Yn2YgBHmi5zCb2kBcE"/>](https://campuscastanhal.ufpa.br/)
+[<img align="left" height="92px" width="92px" alt="UFPA" src="https://media.licdn.com/dms/image/v2/C4D0BAQF5pgxwqpTcfw/company-logo_200_200/company-logo_200_200/0/1631330531313?e=1738195200&v=beta&t=2e-_RYgcfhVkRLArq1A5H4tP_Yn2YgBHmi5zCb2kBcE"/>](https://campuscastanhal.ufpa.br/)
 
 *IT Intern* \
 [*UFPA*](https://campuscastanhal.ufpa.br/) • Internship \
