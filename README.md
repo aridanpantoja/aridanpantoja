@@ -25,7 +25,7 @@
 *Project Director* \
 [*LinkJr*](https://linkjr.com.br/) • Junior Enterprise \
 Languages & Technologies: `React`, `Next.js`, `Typescript`\
-Aug 2024 - Present
+Aug 2024 - Present\
 
 [<img align="left" height="104px" width="104px" alt="UFPA" src="https://media.licdn.com/dms/image/v2/C4D0BAQF5pgxwqpTcfw/company-logo_200_200/company-logo_200_200/0/1631330531313?e=1738195200&v=beta&t=2e-_RYgcfhVkRLArq1A5H4tP_Yn2YgBHmi5zCb2kBcE"/>](https://campuscastanhal.ufpa.br/)
 
