@@ -39,7 +39,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/aridanpantoja/) for a 
 ## GitHub Stats 🌟 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aridanpantoja&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" height="150px"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aridanpantoja&theme=dark&hide_border=true" alt="Top Languages" height="150px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridanpantoja&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aridanpantoja&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" height="180px"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aridanpantoja&theme=dark&hide_border=true" alt="Top Languages" height="180px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridanpantoja&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="200px" />
 </p>
