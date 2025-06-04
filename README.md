@@ -1,12 +1,13 @@
 # Aridan Pantoja 🍃
-- 🔥 Junior Web Developer & Content Creator
-- 🌐 Passionate about education and changing people's lives through programming.
-- 🚀 Always learning and growing
+- 🔥 Junior Web Developer
+- ❤️ Passionate about programming and design.
+- 🚀 3+ years of programming experience
 - 🎓 Computer Engineering Student at [UFPA](https://ufpa.br/)
-- 💼 I’m currently working at [Techne](https://www.linkedin.com/company/techne-engenharia-e-sistemas/)
+- 💼 Lyceum Trainee at [Techne](https://www.linkedin.com/company/techne-engenharia-e-sistemas/)
+- 🎮 Off-duty, I enjoy playing Counter-Strike.
 
 ## My Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,postgres,prisma,html,css,angular,graphql,nestjs,pnpm,npm,jest,py,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,postgres,prisma,html,css,angular,nestjs,pnpm,jest,vercel)](https://skillicons.dev)
 
 ## My Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,photoshop,figma,wordpress,vscode,notion,windows,ubuntu,bash,cloudflare,discord)](https://skillicons.dev)
@@ -41,7 +42,11 @@ Aug 2024 - Present (10 months)
 Skills: `Grafana`, `Zabbix`, `Windows`, `Linux`\
 Aug 2024 - Mar 2025 (8 months)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/aridanpantoja/) for a detailed overview of my work experience, education, and certifications.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aridanpantoja/) for a detailed overview of my work experience.
+
+## My Certifications 
+
+
 
 ## GitHub Stats 🌟 
 
